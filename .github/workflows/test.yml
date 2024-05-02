@@ -20,7 +20,7 @@ jobs:
              run: |
                pwd
                ls -lrt
-                df -h
+               df -h
 
     display-working-information-windows:
         runs-on: windows-latest
